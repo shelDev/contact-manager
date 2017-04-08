@@ -1,0 +1,16 @@
+{
+  "name": "contact-manager",
+  "description": "Contact Manager on Rails",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
